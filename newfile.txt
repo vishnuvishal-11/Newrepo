@@ -8,9 +8,7 @@ TASK_GIVEN:
         - List the 'Real world Examples' where each collection can be implemented.
         - Memory management in java with stack and heap area.
         - Learn about Digitalization and Digitization.
-REPORT_SUMMITTED:
 
-CLICK HERE FOR REPORT
 
 FEEDBACK:
 
@@ -18,6 +16,7 @@ FEEDBACK:
        - TRY USE IDE FOR LEARNING FUCTION AND WHAT CLASS ARE INHERITED AND IMPLEMENTED WITH(using Ctrl+Double Click on class / interface to explore).
        - learn GITHUB and create a repositry
        - learn how variables in stack gets handled.
+
 DAY 2 [4-MAY-2022]
 
 TASK_GIVEN:
@@ -27,3 +26,16 @@ TASK_GIVEN:
        - Learn how variables in stack get handled
        - learn about Branches in github
        - Learn about SCM(Source Code Managemant)
+
+
+DAY 3 [5-MAY-2022]
+
+TASK_GIVEN:
+
+       - Create daily log for task activity and feedback in text and push to github
+       - Upload a code and commit it in github
+       - Learn streams
+       - learn how to switch between  java versionss
+       - Learn about SCM(Source Code Managemant)
+
+
